@@ -23,8 +23,7 @@ This is the **only file authored in this repository**. It:
 - Accepts user questions and returns answers
 
 ### 🧑‍💻 Full Stack Bot Interface
-If you're looking for the **full chatbot application** (UI, server, deployment, etc.), please check the included zipped archive:  
-📦 `fullstack_bot.tar.gz`  
+If you're looking for the **full chatbot application** (UI, server, deployment, etc.), please check the included zipped archive
 It contains everything you need to run the complete bot interface on top of this worker engine.
 Credits for the fullstack: https://github.com/sinanazeri/build_own_chatbot_without_open_ai
 
